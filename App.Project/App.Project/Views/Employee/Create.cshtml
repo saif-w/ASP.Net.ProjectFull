@@ -1,0 +1,29 @@
+﻿@model EmployeeModels
+
+<div class="container">
+        <fieldset>
+            Create Employee    
+        </fieldset>
+    <form method="post">
+        <div class="row mb-4">
+            <div class="col">
+                <label class="form-label">الاسم</label>
+                <input type="text" asp-for="FullName" class="input-group" />
+                <span asp-validation-for="FullName" class="text-bg-danger"></span>
+            </div>
+            <div class="col">
+                <label class="form-label">تاريخ الميلاد</label>
+                <input type="date" asp-for="Birthdate" class="input-group" />
+                <span asp-validation-for="Birthdate" class="text-bg-danger"></span>
+            </div>
+        </div>
+         <div class="row">
+        <div class="col">
+            <a asp-controller="Employee" asp-action="Index" class="btn btn-danger btn-group-md">Go Back</a>
+        </div>
+        <div class="col">
+                <button type="submit" class="btn btn-success btn-group-md">Submit</button>
+        </div>
+    </div>
+    </form>
+</div>

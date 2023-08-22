@@ -1,0 +1,52 @@
+﻿@model IEnumerable<EmployeeGridView>
+
+<form method="post" asp-controller="Employee"asp-action="Index">
+<div class="container">
+<div class="row">
+    <div class="col">
+    <h1>جدول موظفين</h1>
+
+    </div>
+    <div class="col">
+    <a class="btn btn-lg btn-primary" asp-asp-controller="Employee" asp-action="Create">Create</a>
+
+    </div>
+
+</div>
+<div class="row-cols-md-6">
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Birthdate</th>
+                        <th>تعديل</th>
+                        <th>حذف</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var x in Model)
+                    {
+                        <tr>
+                            <td>@x.FullName</td>
+                            <td>@x.Birthdate</td>
+                            <td>
+                            <button type="submit" class="btn btn-btn-primary" asp-route-id="@x.Id" asp-controller="Employee" asp-action="Details" formmethod="get">
+                                <i class="bi bi-pencil-square"></i>
+                                    Edite
+                                </button> 
+                            </td>
+                            <td>
+                                <button type="submit" class="btn btn-danger" asp-route-id="@x.Id" value="@x.Id" name="Delete">
+                                <i class="bi bi-trash3"></i>
+                                    Delete
+                                </button>
+                            </td>
+                        </tr>
+
+                    }
+                </tbody>
+            </table>
+</div>
+</div>
+
+</form>

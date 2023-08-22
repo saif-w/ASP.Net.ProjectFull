@@ -1,0 +1,20 @@
+﻿@model EmployeeModels
+
+<div class="container">
+    <fieldset>تعديل بيانات الموظف</fieldset>
+    <form asp-controller="Employee" asp-action="Update" method="post">
+        <div class="row mb-3">
+            <div class="col-6">
+                <label asp-for="FullName" class="label-group" />
+                <input asp-for="FullName" type="text" class="input-group" />
+            </div>
+            <div class="col-6">
+                <label asp-for="Birthdate" class="label-group" />
+                <input type="date" asp-for="Birthdate" class="input-group" />
+            </div>
+        </div>
+        <div class="row-col-2" >
+            <button asp-route-Id="@Model.Id" type="submit" class="btn btn-primary">تعديل</button>
+        </div>
+    </form>
+</div>
