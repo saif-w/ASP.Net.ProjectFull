@@ -1,7 +1,9 @@
-using App.Project.Data;
-using App.Project.Infstracter;
 using App.Project.Serviecs;
+using APP.Project.Buisness.Infstracter;
+using APP.Project.Buisness.Serviecs;
+using APP.Project.DataAccess.Data;
 using Microsoft.EntityFrameworkCore;
+
 
 var builder = WebApplication.CreateBuilder(args);
 

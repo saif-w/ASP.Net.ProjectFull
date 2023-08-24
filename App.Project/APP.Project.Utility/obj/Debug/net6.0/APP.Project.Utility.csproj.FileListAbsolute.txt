@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\App.Project\APP.Project.Utility\bin\Debug\net6.0\APP.Project.Utility.deps.json
+C:\Users\hp\source\repos\App.Project\APP.Project.Utility\bin\Debug\net6.0\APP.Project.Utility.dll
+C:\Users\hp\source\repos\App.Project\APP.Project.Utility\bin\Debug\net6.0\APP.Project.Utility.pdb
+C:\Users\hp\source\repos\App.Project\APP.Project.Utility\obj\Debug\net6.0\APP.Project.Utility.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\App.Project\APP.Project.Utility\obj\Debug\net6.0\APP.Project.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\App.Project\APP.Project.Utility\obj\Debug\net6.0\APP.Project.Utility.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\App.Project\APP.Project.Utility\obj\Debug\net6.0\APP.Project.Utility.AssemblyInfo.cs
+C:\Users\hp\source\repos\App.Project\APP.Project.Utility\obj\Debug\net6.0\APP.Project.Utility.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\App.Project\APP.Project.Utility\obj\Debug\net6.0\APP.Project.Utility.dll
+C:\Users\hp\source\repos\App.Project\APP.Project.Utility\obj\Debug\net6.0\refint\APP.Project.Utility.dll
+C:\Users\hp\source\repos\App.Project\APP.Project.Utility\obj\Debug\net6.0\APP.Project.Utility.pdb
+C:\Users\hp\source\repos\App.Project\APP.Project.Utility\obj\Debug\net6.0\ref\APP.Project.Utility.dll

@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\App.Project\APP.Project.Buisness\bin\Debug\net6.0\APP.Project.Buisness.deps.json
+C:\Users\hp\source\repos\App.Project\APP.Project.Buisness\bin\Debug\net6.0\APP.Project.Buisness.dll
+C:\Users\hp\source\repos\App.Project\APP.Project.Buisness\bin\Debug\net6.0\APP.Project.Buisness.pdb
+C:\Users\hp\source\repos\App.Project\APP.Project.Buisness\bin\Debug\net6.0\APP.Project.DataAccess.dll
+C:\Users\hp\source\repos\App.Project\APP.Project.Buisness\bin\Debug\net6.0\Models.dll
+C:\Users\hp\source\repos\App.Project\APP.Project.Buisness\bin\Debug\net6.0\APP.Project.DataAccess.pdb
+C:\Users\hp\source\repos\App.Project\APP.Project.Buisness\bin\Debug\net6.0\Models.pdb
+C:\Users\hp\source\repos\App.Project\APP.Project.Buisness\obj\Debug\net6.0\APP.Project.Buisness.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\App.Project\APP.Project.Buisness\obj\Debug\net6.0\APP.Project.Buisness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\App.Project\APP.Project.Buisness\obj\Debug\net6.0\APP.Project.Buisness.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\App.Project\APP.Project.Buisness\obj\Debug\net6.0\APP.Project.Buisness.AssemblyInfo.cs
+C:\Users\hp\source\repos\App.Project\APP.Project.Buisness\obj\Debug\net6.0\APP.Project.Buisness.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\App.Project\APP.Project.Buisness\obj\Debug\net6.0\APP.Project.Buisness.csproj.CopyComplete
+C:\Users\hp\source\repos\App.Project\APP.Project.Buisness\obj\Debug\net6.0\APP.Project.Buisness.dll
+C:\Users\hp\source\repos\App.Project\APP.Project.Buisness\obj\Debug\net6.0\refint\APP.Project.Buisness.dll
+C:\Users\hp\source\repos\App.Project\APP.Project.Buisness\obj\Debug\net6.0\APP.Project.Buisness.pdb
+C:\Users\hp\source\repos\App.Project\APP.Project.Buisness\obj\Debug\net6.0\ref\APP.Project.Buisness.dll

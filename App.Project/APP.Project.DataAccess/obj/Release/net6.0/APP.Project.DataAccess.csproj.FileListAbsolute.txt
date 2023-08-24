@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\App.Project\APP.Project.DataAccess\bin\Release\net6.0\APP.Project.DataAccess.deps.json
+C:\Users\hp\source\repos\App.Project\APP.Project.DataAccess\bin\Release\net6.0\APP.Project.DataAccess.dll
+C:\Users\hp\source\repos\App.Project\APP.Project.DataAccess\bin\Release\net6.0\APP.Project.DataAccess.pdb
+C:\Users\hp\source\repos\App.Project\APP.Project.DataAccess\obj\Release\net6.0\APP.Project.DataAccess.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\App.Project\APP.Project.DataAccess\obj\Release\net6.0\APP.Project.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\App.Project\APP.Project.DataAccess\obj\Release\net6.0\APP.Project.DataAccess.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\App.Project\APP.Project.DataAccess\obj\Release\net6.0\APP.Project.DataAccess.AssemblyInfo.cs
+C:\Users\hp\source\repos\App.Project\APP.Project.DataAccess\obj\Release\net6.0\APP.Project.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\App.Project\APP.Project.DataAccess\obj\Release\net6.0\APP.Project.DataAccess.dll
+C:\Users\hp\source\repos\App.Project\APP.Project.DataAccess\obj\Release\net6.0\refint\APP.Project.DataAccess.dll
+C:\Users\hp\source\repos\App.Project\APP.Project.DataAccess\obj\Release\net6.0\APP.Project.DataAccess.pdb
+C:\Users\hp\source\repos\App.Project\APP.Project.DataAccess\obj\Release\net6.0\ref\APP.Project.DataAccess.dll

@@ -1,4 +1,5 @@
-﻿@model IEnumerable<EmployeeGridView>
+﻿@using Models.Models
+@model IEnumerable<Models.Models.EmployeeGridView>
 
 <form method="post" asp-controller="Employee"asp-action="Index">
 <div class="container">
@@ -29,6 +30,7 @@
                         <tr>
                             <td>@x.FullName</td>
                             <td>@x.Birthdate</td>
+                            <td><img src="data:image/jpeg;base64,@Convert.ToBase64String(@x.ImageData)" height="30px" /></td>
                             <td>
                             <button type="submit" class="btn btn-btn-primary" asp-route-id="@x.Id" asp-controller="Employee" asp-action="Details" formmethod="get">
                                 <i class="bi bi-pencil-square"></i>

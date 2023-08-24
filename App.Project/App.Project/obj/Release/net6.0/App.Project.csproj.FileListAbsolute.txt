@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\App.Project\App.Project\obj\Release\net6.0\App.Project.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\App.Project\App.Project\obj\Release\net6.0\App.Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\App.Project\App.Project\obj\Release\net6.0\App.Project.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\App.Project\App.Project\obj\Release\net6.0\App.Project.AssemblyInfo.cs
+C:\Users\hp\source\repos\App.Project\App.Project\obj\Release\net6.0\App.Project.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\App.Project\App.Project\obj\Release\net6.0\App.Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\source\repos\App.Project\App.Project\obj\Release\net6.0\App.Project.RazorAssemblyInfo.cache
+C:\Users\hp\source\repos\App.Project\App.Project\obj\Release\net6.0\App.Project.RazorAssemblyInfo.cs

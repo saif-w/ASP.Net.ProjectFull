@@ -1,12 +1,14 @@
-﻿using App.Project.Infstracter;
-using App.Project.Models;
+﻿
+using APP.Project.Buisness.Infstracter;
 using Microsoft.AspNetCore.Mvc;
+using Models.Models;
 
 namespace App.Project.Controllers
 {
     public class EmployeeController : Controller
     {
         private readonly IEmployeesServices _services;
+
         public EmployeeController(IEmployeesServices services)
         {
             _services=services;
@@ -61,8 +63,18 @@ namespace App.Project.Controllers
         }
 
         [HttpPost]
-        public IActionResult Create(EmployeeModels model)
+        public IActionResult Create(EmployeeModels model, IFormFile file)
         {
+
+            if (file != null && file.Length > 0)
+            {
+                using (var memoryStream = new MemoryStream())
+                {
+                     file.CopyToAsync(memoryStream);
+                    model.ImageData = memoryStream.ToArray();
+                }
+            }
+
             try
             {
                 if (model.FullName == null)
@@ -75,8 +87,8 @@ namespace App.Project.Controllers
                     ModelState.AddModelError("Birthdate", "الرجاء ادخال تاريخ الميلاد");
                     return View();
                 }
-                
-                    _services.Add(model);
+
+                _services.Add(model);
                     TempData["Done"] = "تمت الاضافة بانجاح";
                     return RedirectToAction("Index");
 
